@@ -1,0 +1,5 @@
+%{
+  "artificery": {:hex, :artificery, "0.4.3", "0bc4260f988dcb9dda4b23f9fc3c6c8b99a6220a331534fdf5bf2fd0d4333b02", [:mix], [], "hexpm", "12e95333a30e20884e937abdbefa3e7f5e05609c2ba8cf37b33f000b9ffc0504"},
+  "distillery": {:hex, :distillery, "1.5.5", "c6132d5c0152bdce6850fb6c942d58f1971b169b6965d908dc4e8767cfa51a95", [:mix], [], "hexpm", "ddc86cf2c660a52a4ddc50fe408b9fc066d8a8e2d34e5db8a916366b92048831"},
+  "murmur": {:hex, :murmur, "1.0.1", "a6e6bced2dd0d666090a9cf3e73699f3b9176bbcf32d35b0f022f137667608e3", [:mix], [], "hexpm", "1303e80b1a5514a8afe0baf4241903ae31e3ba8b7e9e7c2219a668c065a691a6"},
+}
