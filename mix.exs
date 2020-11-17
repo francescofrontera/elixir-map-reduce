@@ -16,7 +16,8 @@ defmodule MapReduce.MixProject do
     [
       extra_applications: [:logger],
       mod: {
-        MapReduce.Application, :no_arg
+        MapReduce.Application,
+        :no_arg
       }
     ]
   end

@@ -4,8 +4,6 @@ defmodule Master do
 
   @vsn "0"
 
-
-
   def start_link(p_and_fun) do
     GenServer.start_link(__MODULE__, p_and_fun, name: @me)
   end
