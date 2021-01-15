@@ -1,6 +1,6 @@
 # Play with Elixir 
 
-A simple no-prod-ready implementation of The Map-Reduce Algorithm using Elixir, Inspired by Druper exercise in the book `Programming Elixir 1.6`.
+A simple no-prod-ready implementation of The Map-Reduce Algorithm using Elixir, which is inspired by Druper exercise in the book `Programming Elixir 1.6`.
 
 ### Example
 ```
